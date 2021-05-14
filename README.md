@@ -9,5 +9,7 @@ I've also included slides for a recent presentation I gave on an overview of our
 
 We implmented the following packages/repos for this work OpenAI Gym (Training Env) + PyBullet (Simulator) + [Stable-baselines3](https://stable-baselines3.readthedocs.io/en/master/) (RL Algorithmm).
 
+Check out our 2021 SAR submission for this year's (cancelled) URC competition [here](https://www.youtube.com/watch?v=b9UxN_oN-Sw).
+
 Here is a sample of our robot typing on a keyboard in simulation!
 ![Alt text](samples/demo.gif?raw=true "Title")
