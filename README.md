@@ -1,7 +1,7 @@
 # uwrt_arm_rl
 This is a project for RL training infrastructure for uwrt arm movement as part of the UWRobotics club, which I collaborated with [Melvin Wang](https://github.com/uwrobotics).
 
-The following diagram provides an overview of our project. I also worked with Melvin to develop our pipeline with traditional controls for keyboard typing, see our main UWRobotics repo [here]((https://github.com/uwrobotics).
+The following diagram provides an overview of our project. I also worked with Melvin to develop our pipeline with traditional controls for keyboard typing, see our main UWRobotics repo [here](https://github.com/uwrobotics).
 
 I've also included slides for a recent presentation I gave on an overview of our project in samples/IntroToAppliedRL.pdf. 
 
